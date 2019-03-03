@@ -1,6 +1,5 @@
 package by.bsuir.furnitureStore.repos;
 
-
 import by.bsuir.furnitureStore.domain.Message;
 import org.springframework.data.repository.CrudRepository;
 
